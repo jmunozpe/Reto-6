@@ -1,4 +1,3 @@
-
 class InvalidOperatorError(Exception):
     pass
 
